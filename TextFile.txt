@@ -1,0 +1,7 @@
+﻿
+
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/model?view=aspnetcore-3.1&tabs=visual-studio
+
+Region
+https://github.com/dotnet/AspNetCore.Docs/blob/master/aspnetcore/fundamentals/localization/sample/Localization/Startup.cs
+
